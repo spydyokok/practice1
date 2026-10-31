@@ -1,5 +1,7 @@
 # My Store — Beginner React + Tailwind Project
 
+live link https://ecom-eight-alpha.vercel.app/
+
 ## Run the project
 1. Extract the ZIP and open the folder in VS Code.
 2. Open the terminal and run:
