@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Sneakers",
+    "price": 2499,
+    "category": "Shoes",
+    "image": "https://sp.yimg.com/ib/th?id=OPAC.t3Umcqs36PGctA474C474&o=5&pid=21.1&w=174&h=174"
+  },
+  {
+    "id": 2,
+    "name": "Backpack",
+    "price": 1299,
+    "category": "Accessories",
+    "image": "https://tse4.mm.bing.net/th/id/OIP.pHQqsdJdmFmeNdIetAXUXwHaHa?r=0&pid=Api&h=220&P=0"
+  },
+  {
+    "id": 3,
+    "name": "Headphones",
+    "price": 1999,
+    "category": "Electronics",
+    "image": "https://tse4.mm.bing.net/th/id/OIP.fdxLkDf3e8sJ05I6rBrGRQHaIM?r=0&pid=Api&h=220&P=0"
+  },
+  {
+    "id": 4,
+    "name": "Wrist Watch",
+    "price": 1799,
+    "category": "Accessories",
+    "image": "https://tse2.mm.bing.net/th/id/OIP.yW5KwWlLRmbuijv70RyLAAHaHa?r=0&pid=Api&h=220&P=0"
+  }
+]
